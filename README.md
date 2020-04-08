@@ -50,4 +50,4 @@ ERROR7 - 检测到非法字符 X
 
 如果发现 AVList.txt 中输出 av0 ，请小心检查！这往往时 ERROR6 和 ERROR7 造成的；
 
-[博客链接](https://www.cnblogs.com/seafever/BTA.html)
+[博客链接](https://www.cnblogs.com/seafever/p/BTA.html)
