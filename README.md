@@ -5,13 +5,13 @@
 ## 参数列表
 
 1. BTA -d/D dirPath
-  + dirPath 为批量从文件读取 BV 号的文件路径
+    + dirPath 为批量从文件读取 BV 号的文件路径
 2. BVxxxxxxxxxx/bvxxxxxxxxxx/xxxxxxxxxx
-  + xxxxxxxxxx 表示 BV 号(不带 BV 头)
-  + 可同时传递多个 BV 号做参数
-  + 但是必须声明在 -d/D 参数前，否则无效
+    + xxxxxxxxxx 表示 BV 号(不带 BV 头)
+    + 可同时传递多个 BV 号做参数
+    + 但是必须声明在 -d/D 参数前，否则无效
 3. - v/V/H/h
-  + 查看相关信息
+    + 查看相关信息
 
 ## 错误列表
 
