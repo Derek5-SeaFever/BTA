@@ -156,7 +156,7 @@ unsigned long long Translate(const string bv_arr)
 	a_dec -= 100618342136696320;
 	a_dec ^= 177451812;
 	// 抛出“ERROR4:不存在 AV 号”异常
-	if (a_dec < 0 || a_dec >= 100000000) throw 4;
+	if (a_dec < 0) throw 4;
 	
 	return a_dec;
 }
